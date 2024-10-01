@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+dist/
+.env
+*.log
+
+# React/Next.js
+.next/
+out/
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs/Editors
+.vscode/
+.idea/
